@@ -1,0 +1,8 @@
+{
+  "name": "sumatif ke-3 Pendidikan Pancasila",
+  "description": "Aplikasi Tes Sumatif Pendidikan Pancasila Materi Mengenal Norma, Hak dan Kewajiban, serta Mengenal Kewajiban Anak (Aturan Menjaga Kerapian di Rumah, Kewajiban untuk Berani Jujur, dan Kewajiban Anak Saat di Sekolah) Kelas VI SD Negeri 3 Loloan Timur dengan KKTP 60, 35 butir soal standar Kurikulum Merdeka, unduh naskah Word .docx & PDF, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
